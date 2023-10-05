@@ -16,3 +16,5 @@ Course 3 focuses on building natural language processing systems using TensorFlo
 
 # Course 4 - Sequences, Time Series, and Prediction:
 In this course, you'll delve into time series modeling using TensorFlow. You'll start by preparing time series data using best practices. Then, you'll explore how recurrent neural networks (RNNs) and 1D ConvNets can be applied to make predictions based on time series data. Finally, you'll apply your knowledge to build a sunspot prediction model using real-world data.
+
+
